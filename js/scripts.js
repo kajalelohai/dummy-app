@@ -135,7 +135,7 @@ const dataNodeMakerFactory = (templateNode) => (item) => {
   const accentClass = item.data.main.term_type.toLowerCase();
   const labelText = item.data.main.term_type_short.toUpperCase();
   const label = node.querySelector('.header-key');
-  label.classList.add(`accent-${accentClass}`);
+  label.classList = `header-key accent-${accentClass}`;
   label.innerText = labelText;
 
   const termText = item.data.main.term;
