@@ -1,0 +1,182 @@
+[
+	{
+		"id": "Xi7N3VWsvd",
+		"data": {
+			"meta": {
+				"timestamp": 1448040078233,
+				"created_by": "F. Bar"
+			},
+			"main": {
+				"term": "&lt;a&gt;",
+				"term_type": "HTML",
+				"term_type_short": "HTML",
+				"desc": {
+					"preview": "Defines a hyperlink.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "eth60jeiUH",
+		"data": {
+			"meta": {
+				"timestamp": 1448310454107,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "String",
+				"term_type": "JavaScript",
+				"term_type_short": "JS",
+				"desc": {
+					"preview": "A JavaScript string stores a series of characters like &quot;John Doe&quot;.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "gVRNtG5x6y",
+		"data": {
+			"meta": {
+				"timestamp": 1448310461066,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "*",
+				"term_type": "css",
+				"term_type_short": "CSS",
+				"desc": {
+					"preview": "Selects all elements.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "pXWx5FTT3I",
+		"data": {
+			"meta": {
+				"timestamp": 1448310465394,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "&lt;article&gt;",
+				"term_type": "htML",
+				"term_type_short": "HTML",
+				"desc": {
+					"preview": "Defines an article.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "5dQM8m03ks",
+		"data": {
+			"meta": {
+				"timestamp": 1448310471962,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "&lt;button&gt;",
+				"term_type": "Html",
+				"term_type_short": "HTML",
+				"desc": {
+					"preview": "Defines a clickable button.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "SxJunYm7RA",
+		"data": {
+			"meta": {
+				"timestamp": 1448310482114,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": ":first-child",
+				"term_type": "cSS",
+				"term_type_short": "CSS",
+				"desc": {
+					"preview": "Selects the first element of a particular type within its parent.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "kgQPLGZ1K9",
+		"data": {
+			"meta": {
+				"timestamp": 1448310489754,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "background",
+				"term_type": "CSS",
+				"term_type_short": "CSS",
+				"desc": {
+					"preview": "Shorthand to set all background properties in one declaration.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "uWNPiR2COp",
+		"data": {
+			"meta": {
+				"timestamp": 1448310493394,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "&lt;canvas&gt;",
+				"term_type": "html",
+				"term_type_short": "HTML",
+				"desc": {
+					"preview": "A tag used to draw graphics via scripting.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+	{
+		"id": "Oj56kGmVPF",
+		"data": {
+			"meta": {
+				"timestamp": 1448310499586,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "Variable",
+				"term_type": "Javascript",
+				"term_type_short": "JS",
+				"desc": {
+					"preview": "JavaScript variables are containers for storing data values.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	},
+		{
+		"id": "bygg3kFCb4",
+		"data": {
+			"meta": {
+				"timestamp": 1448310504906,
+				"created_by": "A. Developer"
+			},
+			"main": {
+				"term": "Scope",
+				"term_type": "JAVASCRIPT",
+				"term_type_short": "JS",
+				"desc": {
+					"preview": "Scope is the set of variables you have access to.",
+					"main": "Praesent pretium sit amet felis vel egestas. Vivamus tincidunt massa et justo scelerisque, eu convallis tellus luctus. Donec dictum porttitor justo sit amet pretium. Cras non metus a nulla condimentum imperdiet. Fusce auctor, turpis ut commodo auctor, metus ipsum iaculis tortor, sit amet suscipit dui ante lacinia nulla."
+				}
+			}
+		}
+	}
+]

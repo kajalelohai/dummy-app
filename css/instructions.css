@@ -1,0 +1,30 @@
+.instructions-list {
+	font-family: 'Open Sans', sans-serif;
+	color: #222222;
+	list-style: initial;
+	margin-left: 15px; 
+}
+
+.instructions-list > li {
+	margin-top: 12px;
+	padding-left: 0px;
+	font-weight: 600;
+}
+
+.instructions-list > li:first-child {
+	margin: 0px;
+}
+
+.instructions-list > ul {
+	list-style: square;
+	margin: 0px;
+	padding: 0px;
+	padding-left: 30px;
+}
+
+.instructions-list > ul > li {
+	color: #666666;
+	margin-top: 5px;
+	padding-left: 0px;
+	font-weight: 500;
+}
