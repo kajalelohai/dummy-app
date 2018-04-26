@@ -9,8 +9,14 @@ const setState = (patch) => {
     ...patch
   };
 
-  if (state.data && state.data.length) {
+  if (state.data) {
     setupStats(state.data);
+
+    const filteredData =
+      state.filter === 'all'
+        ? state.data
+        : getDataOfType(state.data, state.filter);
+    setupDataNodes(filteredData);
   }
 };
 
@@ -121,6 +127,27 @@ const setupStats = (data) => {
   newContainer.appendChild(cssStatsNode);
 
   statsBarContainer.replaceWith(newContainer);
+};
+
+const dataNodeMakerFactory = (templateNode) => (item) => {
+  const node = templateNode.cloneNode(true);
+
+  return node;
+};
+
+const setupDataNodes = (data) => {
+  const container = document.getElementById('data_wrap');
+  const newContainer = container.cloneNode(false);
+  const templateNode = container.querySelector('.data-item');
+  const makeChildNode = dataNodeMakerFactory(templateNode);
+
+  data.forEach((item) => {
+    const newNode = makeChildNode(item);
+
+    newContainer.appendChild(newNode);
+  });
+
+  container.replaceWith(newContainer);
 };
 
 setupNavbar();
