@@ -339,3 +339,9 @@ ul li p {
 .accent-html {
   background-color: #85d3f2 !important;
 }
+
+@media only screen and (max-width: 350px) {
+  .nav-elem-wrap {
+    display: block;
+  }
+}
