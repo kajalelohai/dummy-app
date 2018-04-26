@@ -132,6 +132,24 @@ const setupStats = (data) => {
 const dataNodeMakerFactory = (templateNode) => (item) => {
   const node = templateNode.cloneNode(true);
 
+  const accentClass = item.data.main.term_type.toLowerCase();
+  const labelText = item.data.main.term_type_short.toUpperCase();
+  const label = node.querySelector('.header-key');
+  label.classList.add(`accent-${accentClass}`);
+  label.innerText = labelText;
+
+  const termText = item.data.main.term;
+  const termNode = node.querySelector('.data-term');
+  termNode.innerHTML = termText;
+
+  const previewText = item.data.main.desc.preview;
+  const previewNode = node.querySelector('.data-term-supporting');
+  previewNode.innerText = previewText;
+
+  const bodyText = item.data.main.desc.main;
+  const bodyNode = node.querySelector('.data-text-main');
+  bodyNode.innerText = bodyText;
+
   return node;
 };
 
